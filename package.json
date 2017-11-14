@@ -1,0 +1,16 @@
+{
+  "name": "fblogin",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.5.11",
+    "wdio-selenium-standalone-service": "0.0.9",
+    "wdio-spec-reporter": "^0.1.2",
+    "webdriverio": "^4.9.8"
+  }
+}
